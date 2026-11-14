@@ -1,0 +1,8 @@
+{
+  "name": "Avishkar Raut Portfolio",
+  "description": "Personal portfolio of Avishkar Raut, BBA FinTech & Banking student, finance and fintech content creator, and founder of WalletWisely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
